@@ -1,0 +1,6 @@
+Java
+Node
+Android Studio
+IntelliJ Idea
+Chrome Driver
+Add Selenium, Appium, etc in pom.xml

@@ -1,0 +1,16 @@
+Put below path in env:
+C:\Users\abhis\AppData\Local\Android\Sdk\emulator
+
+Run these commands:
+# FOR REAL DEVICES
+adb devices
+
+# FOR EMULATOR
+emulator -list-avds
+emulator -avd Pixel_6_API_35
+
+
+
+# Setup real device:
+1.First Enable Developer Option second step enable USB Debugging
+2.Search for "Disable Permission Monitoring" and Enable it.

@@ -1,0 +1,10 @@
+Download and Start Appium Server:
+npm install -g Appium
+appium driver install uiautomator2
+appium -v
+appium driver list
+Appium
+
+Optional: To verify Appium is installed correctly or not
+npm install -g appium-doctor
+appium-doctor
