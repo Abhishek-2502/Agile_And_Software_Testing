@@ -1,6 +1,0 @@
-1) https://www.selenium.dev/documentation/webdriver/getting_started/
-2) https://www.geeksforgeeks.org/selenium-with-java-tutorial/
-3) https://www.toolsqa.com/rest-assured-tutorial
-4) https://www.geeksforgeeks.org/apache-maven/
-5) https://www.geeksforgeeks.org/testng-tutorial/
-6) https://www.learncodewithdurgesh.com/blogs/maven-tutorial
